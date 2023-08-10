@@ -40,3 +40,4 @@
 - [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
 - [Web performance, code splitting strategies, and a React case study](https://www.iamtk.co/web-performance-code-splitting-strategies-and-react-applications)
 - [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter)
+- [Securing API keys | webhookdb](./articles/securing-api-keys.md)
