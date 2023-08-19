@@ -4,7 +4,8 @@
 
 - [:memo: Articles](#memo-articles)
 - [:open_file_folder: Material](#open_file_folder-material)
-- [:open_file_folder: Resources](#open_file_folder-resources)
+  - [:open_file_folder: Libraries](#open_file_folder-libraries)
+  - [:open_file_folder: Tools](#open_file_folder-tools)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

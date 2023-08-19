@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Securing API keys | webhookdb](#securing-api-keys--webhookdb)
+  - [#1: You can "hide" API keys in the frontend](#1-you-can-hide-api-keys-in-the-frontend)
+  - [#2 All environment variables are equal](#2-all-environment-variables-are-equal)
+  - [# 3: Don't put .env files into version control](#-3-dont-put-env-files-into-version-control)
+  - [#4: Use a Proxy to hide API keys](#4-use-a-proxy-to-hide-api-keys)
+  - [#5: Key Management Services are for APIs](#5-key-management-services-are-for-apis)
+  - [#6: All API keys are the same](#6-all-api-keys-are-the-same)
+  - [#7: Keeping API keys safe is easy. Or hard](#7-keeping-api-keys-safe-is-easy-or-hard)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Securing API keys | webhookdb
 Font: <https://webhookdb.com/blog/2023-05-securing-api-keys-react>
 

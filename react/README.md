@@ -4,6 +4,9 @@
 
 - [Content](#content)
   - [:rocket: Utils](#rocket-utils)
+  - [:rocket: Documentation](#rocket-documentation)
+  - [:rocket: Frameworks & deploy & build](#rocket-frameworks--deploy--build)
+  - [:rocket: ORM](#rocket-orm)
   - [:art: Components & templates](#art-components--templates)
   - [:open_file_folder: Projects or Demos](#open_file_folder-projects-or-demos)
   - [:memo: Articles](#memo-articles)
@@ -15,9 +18,25 @@
 ## :rocket: Utils
 
 - Interactive CLI to start a `full-stack, typesafe Next.js app` ([click](https://github.com/t3-oss/create-t3-app#about)).
-- The Electron framework lets you write `cross-platform desktop applications` using JavaScript, HTML and CSS. It is based on Node.js and Chromium and is used by the Atom editor and many other apps ([clikc](https://github.com/electron/electron)).
 - Story Book - Storybook is a frontend workshop for building UI components and pages in isolation. ([click](https://storybook.js.org/)).
-- Documentació `actualitzada` i amb `exemples`: [click](https://react.dev/blog/2023/03/16/introducing-react-dev).
+
+## :rocket: Documentation
+
+- [Reactjs.wiki](https://www.reactjs.wiki/)
+- [React.dev](https://react.dev/blog/2023/03/16/introducing-react-dev)
+- [Preguntas entrevista react (midudev)](https://github.com/midudev/preguntas-entrevista-react)
+
+## :rocket: Frameworks & deploy & build
+
+- [Electron](https://github.com/electron/electron), write cross-platform desktop applications using JavaScript, HTML and CSS
+- [Webpack](https://webpack.js.org/)
+- [Vite](https://es.vitejs.dev/), Herramienta frontend de próxima generación
+- [Surge](https://surge.sh/), Static web publishing for Front-End Developers
+
+## :rocket: ORM
+
+- [Prisma, Next-generation Node.js and TypeScript ORM](https://www.prisma.io/)
+
 
 ## :art: Components & templates
 
@@ -29,6 +48,8 @@
 - [React for CLIs. Build and test your CLI output using components.](https://github.com/vadimdemedes/ink)
 
 ## :open_file_folder: Projects or Demos
+
+Nota: :warning: tinc alguns en el github.
 
 - App Task [View Video](https://www.youtube.com/watch?v=iHqa6ojKnHI)
 - ReactJS Complete Getting Started Guide - Movies Search with MovieDB API [View Video](https://www.youtube.com/watch?v=bqSSLr8A8PU).
