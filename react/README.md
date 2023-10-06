@@ -17,8 +17,8 @@
 
 ## :rocket: Utils
 
-- Interactive CLI to start a `full-stack, typesafe Next.js app` ([click](https://github.com/t3-oss/create-t3-app#about)).
-- Story Book - Storybook is a frontend workshop for building UI components and pages in isolation. ([click](https://storybook.js.org/)).
+- [create-t3-app](https://github.com/t3-oss/create-t3-app#about), Interactive CLI to start a `full-stack, typesafe Next.js app`
+- [Story Book](https://storybook.js.org/), Storybook is a frontend workshop for building UI components and pages in isolation
 
 ## :rocket: Documentation
 
@@ -37,12 +37,11 @@
 
 - [Prisma, Next-generation Node.js and TypeScript ORM](https://www.prisma.io/)
 
-
 ## :art: Components & templates
 
-- `Planby` is a React based component for a quick implementation of Epg, schedules, live streaming, music events, timelines and many more ideas ([click](https://github.com/karolkozer/planby))
+- [Planby](https://github.com/karolkozer/planby) is a React based component for a quick implementation of Epg, schedules, live streaming, music events, timelines and many more ideas
 - `Preline UI` is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
-- `Flexboard` ([click](https://github.com/dorbus/flexboard)).
+- [Flexboard](https://github.com/dorbus/flexboard)
 - <https://github.com/MarsX-dev/floatui>
 - [Million.js](https://millionjs.org/), Harness the speed of Million.js to build blazing fast components - all using React. Million.js is a low level virtual DOM library with optimization utilites to make `rendering faster`!
 - [React for CLIs. Build and test your CLI output using components.](https://github.com/vadimdemedes/ink)

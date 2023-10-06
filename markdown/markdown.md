@@ -4,7 +4,7 @@
 
 - [Content](#content)
   - [Examples](#examples)
-  - [Utils](#utils)
+  - [💎 Utils](#-utils)
   - [Examples](#examples-1)
     - [Back to top](#back-to-top)
     - [Fold / Unfold](#fold--unfold)
@@ -19,10 +19,16 @@
 ## Examples
 TODO
 
-## Utils
+## 💎 Utils
 GitHub Wiki TOC generator 
 - (online) https://ecotrust-canada.github.io/markdown-toc/
 - (npm) https://github.com/thlorenz/doctoc
+
+
+```shell
+# Generate table of content
+doctoc .
+```
 
 ## Examples
 

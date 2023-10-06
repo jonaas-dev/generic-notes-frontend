@@ -4,23 +4,24 @@
 
 - [:memo: Articles](#memo-articles)
 - [:open_file_folder: Material](#open_file_folder-material)
-  - [:open_file_folder: Libraries](#open_file_folder-libraries)
+  - [:open_file_folder: Some libraries](#open_file_folder-some-libraries)
   - [:open_file_folder: Tools](#open_file_folder-tools)
+  - [📚 Extra content](#-extra-content)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # :memo: Articles
 
-- [📚 Los 7 MEJORES LIBROS para APRENDER y DOMINAR JAVASCRIPT!](./los-7-mejores-libros-para-aprender-javascript.md)
+- [TODO](./some_link)
 
 # :open_file_folder: Material
 
-## :open_file_folder: Libraries
+## :open_file_folder: Some libraries
 
 - [Chart js](https://www.chartjs.org/docs/latest/charts/radar.html)
-- [lodash](https://lodash.com/docs/4.17.15#chunk)
-- [Moment.js (time & date)](https://momentjs.com/)
-- html2canvas (print pdf)
+- [Lodash](https://lodash.com/docs/4.17.15#chunk)
+- [Moment.js](https://momentjs.com/) (time & date)
+- [html2canvas](https://github.com/niklasvh/html2canvas) (print pdf)
 
 ## :open_file_folder: Tools
 
@@ -33,3 +34,7 @@
 - [MemLab: An open source framework for finding JavaScript memory leaks](https://engineering.fb.com/2022/09/12/open-source/memlab/)
 - [TypeScript-JSON](https://github.com/samchon/typescript-json)
 - [Tourguide-js](https://github.com/sjmc11/tourguide-js)
+
+## 📚 Extra content
+
+- [🎥 Los 7 MEJORES LIBROS para APRENDER y DOMINAR JAVASCRIPT!](./los-7-mejores-libros-para-aprender-javascript.md)
